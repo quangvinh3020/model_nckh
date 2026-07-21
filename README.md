@@ -1,7 +1,7 @@
 # NCKH - Ghi chú mô hình
 
 ## Tổng quan
-Repo này hiện có 2 mô hình segmentation YOLO đã huấn luyện trên bộ dữ liệu `data.yaml`.
+Repo này hiện có 2 mô hình segmentation YOLO đã huấn luyện trên bộ dữ liệu với cấu hình `data.yaml`.
 
 ## Dataset
 - Đường dẫn dữ liệu: `/content/dataset_final`
